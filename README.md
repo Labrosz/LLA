@@ -1,2 +1,4 @@
-# LLA
-Latex Language Annotator
+# Latex Language Annotator
+
+## Usage
+
